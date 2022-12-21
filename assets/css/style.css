@@ -12,3 +12,12 @@
 .main{
     background-image: linear-gradient(to right, rgb(226, 151, 197) ,rgb(211, 211, 142))
 }
+
+.btn {
+    
+    transition: height 2s;
+}
+
+.btn:hover{
+    height: 200px;
+}

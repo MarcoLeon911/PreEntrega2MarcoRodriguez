@@ -1,5 +1,5 @@
 .form{
-    background-color: beige;
+    background-image: linear-gradient(to right, rgb(226, 151, 197) ,rgb(211, 211, 142))
     
     
 
@@ -15,21 +15,21 @@
 }
 
 .encontranos{
-    background-color: beige;
+    background-image: linear-gradient(to right, rgb(226, 151, 197) ,rgb(211, 211, 142))
 }
 
 .titulo{
-    background-color: beige;
+    background-image: linear-gradient(to right, rgb(226, 151, 197) ,rgb(211, 211, 142))
 }
 
 .tarred{
     width: 150px;
     border: 1px solid;
     border-radius: 5px;
-    background-color: aliceblue;
+    background-color: white;
 }
 
 .pie{
-    background-color: rgb(255, 255, 228);
-}
+    background-image: linear-gradient(to right, rgb(226, 151, 197) ,rgb(211, 211, 142))
 
+}
