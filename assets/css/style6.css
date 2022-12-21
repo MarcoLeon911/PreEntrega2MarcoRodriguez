@@ -1,15 +1,32 @@
 .form{
     background-color: beige;
-    padding: 30px;
+    
     
 
 }
 
 .gmail{
-    width: 50%;
+    width: 25%;
     
 }
 
 .tele{
-    width: 50%;
+    width: 25%;
 }
+
+.encontranos{
+    background-color: beige;
+}
+
+.titulo{
+    background-color: beige;
+}
+
+.tarred{
+    width: 50px; ;
+}
+
+.pie{
+    background-color: rgb(255, 255, 228);
+}
+
