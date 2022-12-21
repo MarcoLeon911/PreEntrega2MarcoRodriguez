@@ -1,4 +1,14 @@
-.card-img-top{
-    height: 50px;
+.tarred{
+    width: 150px;
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: white;
+    
+}
 
+.pie{
+    background-image: linear-gradient(to right, rgb(226, 151, 197) ,rgb(211, 211, 142))
+}
+.main{
+    background-image: linear-gradient(to right, rgb(226, 151, 197) ,rgb(211, 211, 142))
 }

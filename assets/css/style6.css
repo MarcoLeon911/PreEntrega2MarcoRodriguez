@@ -23,7 +23,10 @@
 }
 
 .tarred{
-    width: 50px; ;
+    width: 150px;
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: aliceblue;
 }
 
 .pie{
